@@ -19,7 +19,7 @@ or in some contexts "changesets" in the case of Gerrit.
 
 ## Objectives
 * Volume of changes proposed to a project.
-    Change requests are a proxy for the activity in a project.
+    Change requests are a dimension for the activity in a project.
     By counting change requests in the set of repositories corresponding
     to a project, you can have an idea of the overall activity in
     changes to that project.
