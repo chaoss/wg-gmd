@@ -20,7 +20,7 @@ declined change requests in this system.
 ## Objectives
 
 * Volume of coding activity.
-    Declined change requests are a proxy for the activity in a project.
+    Declined change requests are a dimension for the activity in a project.
     By counting declined change requests in the set of repositories corresponding
     to a project, you can have an idea of the overall coding activity in
     that project that did not lead to actual changes.

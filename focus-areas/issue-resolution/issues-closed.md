@@ -27,7 +27,7 @@ issues that were closed during a certain period.
 ## Objectives
 
 Volume of issues that are dealt with in a project.
-Closed issues are a proxy for the activity in a project.
+Closed issues are a dimension for the activity in a project.
 By counting closed issues related to code in the set of repositories corresponding
 to a project, you can have an idea of the overall activity in
 finishing work with issues in that project.
@@ -38,8 +38,8 @@ used to track volume of coding activity.
 ## Implementation
 
 **Aggregators:**
-* Count. Total number of active issues during the period.
-* Ratio. Ratio of active issues over total number of issues during that period.
+* Count. Total number of closed issues during the period.
+* Ratio. Ratio of closed issues over total number of issues during that period.
 * Reactions. Number of "thumb-ups" or other reactions on issues.
 
 **Parameters:**
@@ -99,16 +99,16 @@ In the case of GitHub, closed issues are defined as "issues which are closed".
 
 **Specific description: GitLab**
 
-In the case of GitLab, active issues are defined as "issues
+In the case of GitLab, closed issues are defined as "issues
 that are closed".
 
 **Specific description: Jira**
 
-In the case of Jira, active issues are defined as "issues that change to the closed state". 
+In the case of Jira, closed issues are defined as "issues that change to the closed state".
 
 **Specific description: Bugzilla**
 
-In the case of Bugzilla, active issues are defined as "bug reports that change to the closed state".
+In the case of Bugzilla, closed issues are defined as "bug reports that change to the closed state".
 
 ## References
 

@@ -44,7 +44,7 @@ GitLab or Jira, to "bug reports" in the case of Bugzilla, and to
 
 ## Objectives
 
-Volume of issues discussed in a project. Issues are a proxy for the
+Volume of issues discussed in a project. Issues are a dimension for the
 activity in a project. By counting issues discussing code in the set
 of repositories corresponding to a project, you can have an idea of
 the overall activity in discussing issues in that project. Of course,

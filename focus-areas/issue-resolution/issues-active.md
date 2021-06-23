@@ -17,7 +17,7 @@ the action of closing an issue, is considered as a sign of activity.
 ## Objectives
 
 * Volume of active issues in a project.
-    Active issues are a proxy for the activity in a project.
+    Active issues are a dimension for the activity in a project.
     By counting active issues related to code in the set of repositories corresponding
     to a project, you can have an idea of the overall activity in
     working with issues in that project.

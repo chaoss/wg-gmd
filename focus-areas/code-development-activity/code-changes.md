@@ -17,7 +17,7 @@ touches files considered as source code.
 ## Objectives
 
 * Volume of coding activity.
-    Code changes are a proxy for the activity in a project.
+    Code changes are a dimension for the activity in a project.
     By counting the code changes in the set of repositories corresponding
     to a project, you can have an idea of the overall coding activity in
     that project.

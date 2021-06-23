@@ -28,7 +28,7 @@ be any line of a source code file, including comments and blank lines.
 ## Objectives
 
 * Volume of coding activity:  
-  Although code changes can be a proxy to the coding activity of a project,
+  Although code changes can be a dimension to the coding activity of a project,
   not all changes are the same. Considering the aggregated number of
   lines touched in all changes gives a complementary idea of how large
   the changes are, and in general, how large is the volume of coding

@@ -20,7 +20,7 @@ corresponds to a single commit.
 ## Objectives
 
 * Volume of coding activity.  
-    Accepted change requests are a proxy for the activity in a project.
+    Accepted change requests are a dimension for the activity in a project.
     By counting accepted change requests in the set of repositories corresponding
     to a project, you can have an idea of the overall coding activity in
     that project that leads to actual changes.
